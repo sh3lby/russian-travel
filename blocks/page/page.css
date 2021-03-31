@@ -1,0 +1,13 @@
+.page {
+  background: #2A2C2F;
+  overflow-x: hidden;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 288px) {
+  .page {
+    visibility: hidden;
+  }
+}

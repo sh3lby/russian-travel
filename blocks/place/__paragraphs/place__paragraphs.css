@@ -1,0 +1,10 @@
+.place__paragraphs {
+  grid-area: description;
+}
+
+@media (max-width: 767px) {
+  .place__paragraphs {
+    max-width: 288px;
+    margin: 0 auto;
+  }
+}

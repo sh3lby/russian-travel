@@ -1,0 +1,20 @@
+.intro {
+  font-family: 'Inter', Arial, sans-serif;
+  color: #FFFFFF;
+  padding-top: 92px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .intro {
+    max-width: 720px;
+    margin: 0 auto;
+    padding-top: 88px;
+  }
+}

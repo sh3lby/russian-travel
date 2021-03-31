@@ -1,0 +1,33 @@
+.footer__link {
+  margin-right: 18px;
+  color: inherit;
+  font-family: inherit;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  -webkit-transition: opacity 0.5s ease-in;
+  -o-transition: opacity 0.5s ease-in;
+  transition: opacity 0.5s ease-in;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 32px;
+    margin-right: 0;
+  }
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
+}
