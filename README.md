@@ -1,5 +1,7 @@
 # Проект 3: Путешествие по России
 
+[https://sh3lby.github.io/russian-travel/]
+
 ## Адаптивная вёрстка и работа с макетом
 
 <img src=https://media.giphy.com/media/NmBvCW8ZAVWbwsGLfb/giphy.gif>
