@@ -1,4 +1,10 @@
 .intro__list {
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
   color: inherit;
   font-family: inherit;
   font-style: normal;
