@@ -21,6 +21,7 @@
 
 @media (max-width: 1279px) {
   .lead {
+    max-width: 768px;
     padding-top: 48px;
   }
 }

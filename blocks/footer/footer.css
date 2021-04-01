@@ -38,7 +38,6 @@
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: flex-start;
-    min-height: 310px;
     padding-top: 64px;
   }
 }

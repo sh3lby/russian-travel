@@ -34,23 +34,7 @@
     grid-template-columns: 340px 352px;
     -ms-grid-rows: 1fr 48px auto;
     grid-template-rows: 1fr auto;
-    margin-bottom: 80px;
-  }
-  .place > *:nth-child(1) {
-    -ms-grid-row: 1;
-    -ms-grid-column: 1;
-  }
-  .place > *:nth-child(2) {
-    -ms-grid-row: 1;
-    -ms-grid-column: 3;
-  }
-  .place > *:nth-child(3) {
-    -ms-grid-row: 3;
-    -ms-grid-column: 1;
-  }
-  .place > *:nth-child(4) {
-    -ms-grid-row: 3;
-    -ms-grid-column: 3;
+    margin-bottom: 73px;
   }
 }
 
@@ -66,5 +50,6 @@
       "website"
       "image"
       "description";
+    margin-bottom: 50px;
   }
 }
