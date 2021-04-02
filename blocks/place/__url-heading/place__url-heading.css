@@ -17,7 +17,7 @@
   margin-bottom: 12px;
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .place__url-heading {
     line-height: 12px;
   }

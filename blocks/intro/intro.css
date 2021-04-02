@@ -18,3 +18,9 @@
     padding-top: 88px;
   }
 }
+
+@media (max-width: 767px) {
+  .intro {
+    padding-top: 64px;
+  }
+}
